@@ -1,3 +1,4 @@
 # starbucks
 스타벅스 홈페이지 입니다.
-홈페이지 사이트 : https://sad-boyd-982a76.netlify.app
+
+홈페이지 사이트 : https://minsunportfolio2.netlify.app/
